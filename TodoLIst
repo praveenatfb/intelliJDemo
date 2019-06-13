@@ -4,9 +4,16 @@ Git, Maven,
 
 Frameworks:
 -----------
-Spring(IOC,MVC, JDBC, JPA), hibernate, 
+Spring(IOC,MVC, JDBC, JPA), hibernate, webservices
 
 
-languages:
+Languages:
 ---------
-Core Java, 
+Core Java, Javascript,
+
+JQuery, Ajax, 
+
+
+Extras and Misc:
+----------------
+Jenkins, Python, 
