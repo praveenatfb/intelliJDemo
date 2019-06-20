@@ -1,0 +1,17 @@
+start
+define an array <- [4,8,9,2,1]
+declare min value to swap
+	loop i<-0 until i<n-1
+	assume min=i
+		loop j<-i+1 until i<n
+		then
+			if(n[i]>n[j] 
+			then
+			assume min=j	
+		increament j with 1
+		end loop
+	increament i with one
+	end loop
+swap(n[i],n[j]
+print array
+end
