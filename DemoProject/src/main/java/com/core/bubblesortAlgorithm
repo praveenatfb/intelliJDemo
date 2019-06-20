@@ -1,0 +1,15 @@
+start
+define an array <- {25,78,56,11
+	loop k<-0 for arr.length-1
+		loop i<-0 for arr.length-k-1
+		then
+			if(arr[i]>arr[i+1])
+			 then
+			 	swap(arr[i],arr[i+1])
+			 end if condition
+		increament i+1
+		endloop
+	increament k+1
+	end loop
+display array
+end 
