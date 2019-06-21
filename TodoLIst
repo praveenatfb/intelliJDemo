@@ -6,6 +6,20 @@ statement declarations,
 [conditional branching] if, switch, ?:, (condition analysis, bit wise, logical, operatior precedence)
 [iterational statements] for, foreach,while, dowhile, goto.
 
+String handling, string pool
+
+OOPS,
+Abstraction,
+Encapsulation,
+Inheritence,
+Polymorphism,
+Data binding,
+
+Exception Handling,
+Collections,
+Multithreading,
+Streams and NIO
+
 
 
 
