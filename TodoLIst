@@ -1,3 +1,15 @@
+Basics:
+-------
+Data Types(declaration, usage, arthematic op, init, assending), 
+[extended] autoboxing, unboxing, conversions(narowing, widening), wrapers, 
+statement declarations,
+[conditional branching] if, switch, ?:, (condition analysis, bit wise, logical, operatior precedence)
+[iterational statements] for, foreach,while, dowhile, goto.
+
+
+
+
+
 Tools:
 ------
 Git, Maven, 
