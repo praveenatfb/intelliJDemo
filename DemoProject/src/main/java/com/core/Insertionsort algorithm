@@ -1,0 +1,17 @@
+start
+define an array <- [4,8,9,2,1]
+declare temp,i,j
+	loop i<-0 until i<n
+	temp=num[i]
+	j=i
+		loop j>0 && temp<num[j-1]
+		num[j]=num[j-1]
+		j=j-1
+		end loop	
+		increament j with 1
+		end loop
+		num[j]=temp
+		increament i with one
+	end loop
+print array
+end
