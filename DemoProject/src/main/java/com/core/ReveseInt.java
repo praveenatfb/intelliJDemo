@@ -16,7 +16,6 @@ public class ReveseInt {
 			
 		}
 		System.out.println(reverse);
-	
 	}
 
 }
